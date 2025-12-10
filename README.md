@@ -7,3 +7,8 @@ Plays a squeaky toy sound and displays above head text when you or a teammate hi
 * Duration adjustor for overhead text.
 
 ![player attacking with regular elder maul attack](./MD_image/Image_hammerBonk.png)
+
+
+Sound effect sourced from: https://pixabay.com/sound-effects/squeaky-toy-1-6059/
+Artist: Breviceps (Freesound)
+Published date: August 5, 2021
